@@ -38,7 +38,7 @@ Retiro Games is a retro-themed Android gaming app designed with a nostalgic pixe
 
 ## Installation
 
-- Download the APK file from latest releases
+- Download the APK file from latest [release](https://github.com/nihal4/Retro_Games/releases)
 
 - Install it on your Android device.
 
