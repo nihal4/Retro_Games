@@ -24,17 +24,11 @@ Retiro Games is a retro-themed Android gaming app designed with a nostalgic pixe
 - Cross platform
 
 ## Screenshots
-- Home
-    ![App Screenshot](https://github.com/user-attachments/assets/650c4683-2917-478c-ae4b-274af6e3fa01)
 
-- Tic Tac Toe
-    ![App Screenshot](https://github.com/user-attachments/assets/fafacccb-892e-4fb0-9282-33940740e8e0)
-
-- Memory Game
-    ![App Screenshot](https://github.com/user-attachments/assets/88381415-00dc-481d-891a-7bfc40323d98)
-
-- Tap Battle
-    ![App Screenshot](https://github.com/user-attachments/assets/c40b309e-3e00-4864-8dd1-068d23286f74)
+![App Screenshot](https://github.com/user-attachments/assets/650c4683-2917-478c-ae4b-274af6e3fa01)
+![App Screenshot](https://github.com/user-attachments/assets/fafacccb-892e-4fb0-9282-33940740e8e0)
+![App Screenshot](https://github.com/user-attachments/assets/88381415-00dc-481d-891a-7bfc40323d98)
+![App Screenshot](https://github.com/user-attachments/assets/c40b309e-3e00-4864-8dd1-068d23286f74)
 
 ## Installation
 
