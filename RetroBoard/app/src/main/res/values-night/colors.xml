@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#000000</color>
+    <color name="colorPrimaryVariant">#444444</color>
+
+    <!--for bg-->
+    <color name="colorOnPrimary">#E5E5E5</color>
+    <color name="colorOnNight">#000000</color>
+
+    <!--for text-->
+    <color name="color_text">#000814</color>
+    <color name="color_text_night">#EDEDE9</color>
+
+    <color name="color_btn">#000814</color>
+    <color name="color_btn_night">#EDEDE9</color>
+
+    <color name="colorBackground">#000814</color>
+    <color name="colorOnBackground">#000000</color>
+</resources>
